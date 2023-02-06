@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Atharv Damle on Hello Friend</title>
+    <title>Posts on Hello Friend</title>
     
     
     
-    <link>https://atharv2005.github.io/</link>
-    <description>Recent content in Atharv Damle on Hello Friend</description>
+    <link>https://atharv2005.github.io/posts/</link>
+    <description>Recent content in Posts on Hello Friend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Feb 2023 12:20:52 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 05 Feb 2023 11:28:41 +0530</lastBuildDate>
     
-	<atom:link href="https://atharv2005.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://atharv2005.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -50,26 +50,6 @@ Brief # A large percentage of Swiggy&amp;rsquo;s most active users are office go
         
         
            HEllo # 
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://atharv2005.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://atharv2005.github.io/about/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-           About # Hello I am Atharv # 
           
         
         </description>
